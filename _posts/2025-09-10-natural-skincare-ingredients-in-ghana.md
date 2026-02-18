@@ -5,7 +5,8 @@ date: 2025-09-10
 categories: [Skincare]
 tags: [natural skincare ghana, shea butter ghana, black soap benefits, baobab oil, moringa skincare]
 excerpt: "Discover popular natural skincare ingredients in Ghana like shea butter, black soap, and baobab oil, plus safe ways to use them for glowing skin."
-image: /assets/og-default.png
+image: /assets/img/posts/natural-ingredients.svg
+image_alt: "Illustration of shea butter, black soap, and baobab oil for natural skincare"
 canonical_url:
 ---
 

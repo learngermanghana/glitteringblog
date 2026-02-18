@@ -5,7 +5,8 @@ date: 2025-09-11
 categories: [Skincare]
 tags: [acne treatment ghana, pimples in humid weather, acne skincare routine, salicylic acid ghana, acne marks dark skin]
 excerpt: "Learn a realistic acne treatment routine for Ghana's hot climate, including cleanser choices, active ingredients, and tips for reducing acne marks."
-image: /assets/og-default.png
+image: /assets/img/posts/acne-treatment.svg
+image_alt: "Illustration of acne-safe cleanser, treatment, moisturizer, and sunscreen"
 canonical_url:
 ---
 

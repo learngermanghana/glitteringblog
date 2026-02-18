@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Affordable skincare essentials</title>
+  <desc id="desc">Illustration of skincare products and budget tags.</desc>
+  <rect width="1200" height="800" fill="#f5f3ff"/>
+  <rect x="120" y="180" width="960" height="470" rx="44" fill="#ffffff"/>
+  <rect x="220" y="280" width="180" height="300" rx="24" fill="#ddd6fe"/>
+  <rect x="460" y="240" width="220" height="340" rx="36" fill="#ede9fe"/>
+  <rect x="740" y="300" width="180" height="280" rx="24" fill="#e9d5ff"/>
+  <circle cx="310" cy="250" r="42" fill="#34d399"/>
+  <circle cx="570" cy="210" r="42" fill="#34d399"/>
+  <circle cx="830" cy="270" r="42" fill="#34d399"/>
+  <text x="310" y="261" text-anchor="middle" font-size="26" font-family="Arial, sans-serif" font-weight="700" fill="#064e3b">₵</text>
+  <text x="570" y="221" text-anchor="middle" font-size="26" font-family="Arial, sans-serif" font-weight="700" fill="#064e3b">₵</text>
+  <text x="830" y="281" text-anchor="middle" font-size="26" font-family="Arial, sans-serif" font-weight="700" fill="#064e3b">₵</text>
+  <text x="600" y="730" text-anchor="middle" font-size="50" font-family="Arial, sans-serif" font-weight="700" fill="#4c1d95">Affordable Skincare Picks</text>
+</svg>

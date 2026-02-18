@@ -5,7 +5,8 @@ date: 2025-09-13
 categories: [Skincare]
 tags: [affordable skincare ghana, budget skincare routine, drugstore skincare ghana, skincare for students ghana, cheap skincare products]
 excerpt: "Create an affordable skincare routine in Ghana with budget-friendly essentials that cleanse, hydrate, and protect your skin without overspending."
-image: /assets/og-default.png
+image: /assets/img/posts/affordable-skincare.svg
+image_alt: "Illustration of budget-friendly skincare products with price tags"
 canonical_url:
 ---
 

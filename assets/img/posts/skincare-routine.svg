@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Skincare routine essentials</title>
+  <desc id="desc">Illustration of cleanser, moisturizer, and sunscreen bottles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffe8f0"/>
+      <stop offset="100%" stop-color="#e0f7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1060" cy="140" r="90" fill="#ffd36b" opacity="0.85"/>
+  <rect x="220" y="280" width="200" height="340" rx="30" fill="#ffffff"/>
+  <rect x="500" y="220" width="220" height="400" rx="40" fill="#f7fbff"/>
+  <rect x="780" y="310" width="180" height="310" rx="24" fill="#ffffff"/>
+  <text x="320" y="460" text-anchor="middle" font-size="38" font-family="Arial, sans-serif" fill="#34495e">Cleanser</text>
+  <text x="610" y="450" text-anchor="middle" font-size="38" font-family="Arial, sans-serif" fill="#2c3e50">Moisturizer</text>
+  <text x="870" y="470" text-anchor="middle" font-size="34" font-family="Arial, sans-serif" fill="#2c3e50">SPF 50</text>
+  <text x="600" y="720" text-anchor="middle" font-size="52" font-family="Arial, sans-serif" font-weight="700" fill="#1e2a38">Simple Daily Skincare Routine</text>
+</svg>

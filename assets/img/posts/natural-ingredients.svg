@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Natural skincare ingredients</title>
+  <desc id="desc">Illustration of shea butter, black soap, and botanical oils.</desc>
+  <rect width="1200" height="800" fill="#f0fff4"/>
+  <ellipse cx="210" cy="170" rx="130" ry="90" fill="#c6f6d5"/>
+  <ellipse cx="990" cy="150" rx="150" ry="100" fill="#b2f5ea"/>
+  <rect x="170" y="260" width="280" height="320" rx="30" fill="#fffaf0" stroke="#e2e8f0"/>
+  <rect x="500" y="300" width="220" height="280" rx="110" fill="#8b5a2b"/>
+  <rect x="810" y="250" width="230" height="330" rx="26" fill="#ffffff" stroke="#cbd5e0"/>
+  <text x="310" y="430" text-anchor="middle" font-size="34" font-family="Arial, sans-serif" fill="#2f855a">Shea Butter</text>
+  <text x="610" y="450" text-anchor="middle" font-size="34" font-family="Arial, sans-serif" fill="#f7fafc">Black Soap</text>
+  <text x="925" y="430" text-anchor="middle" font-size="34" font-family="Arial, sans-serif" fill="#2c7a7b">Baobab Oil</text>
+  <text x="600" y="720" text-anchor="middle" font-size="50" font-family="Arial, sans-serif" font-weight="700" fill="#22543d">Natural Skincare Ingredients</text>
+</svg>
