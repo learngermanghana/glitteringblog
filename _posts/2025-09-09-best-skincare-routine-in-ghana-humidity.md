@@ -5,7 +5,8 @@ date: 2025-09-09
 categories: [Skincare]
 tags: [skincare in ghana, humid weather skincare, oily skin ghana, morning skincare routine, evening skincare routine]
 excerpt: "Build a practical skincare routine for Ghana's warm, humid climate with cleanser, sunscreen, and lightweight moisturizers that protect your skin barrier."
-image: /assets/og-default.png
+image: /assets/img/posts/skincare-routine.svg
+image_alt: "Illustrated cleanser, moisturizer, and sunscreen bottles for a daily skincare routine"
 canonical_url:
 ---
 

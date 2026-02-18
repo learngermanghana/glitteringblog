@@ -5,7 +5,8 @@ date: 2025-09-12
 categories: [Skincare]
 tags: [best sunscreen ghana, sunscreen for dark skin, no white cast sunscreen, spf 50 ghana, uv protection ghana]
 excerpt: "Find out how to choose the best sunscreen in Ghana for dark skin, avoid white cast, and protect against hyperpigmentation and premature aging."
-image: /assets/og-default.png
+image: /assets/img/posts/sunscreen-guide.svg
+image_alt: "Illustration of SPF 50 sunscreen and sun icon for daily UV protection"
 canonical_url:
 ---
 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Sunscreen guide for dark skin</title>
+  <desc id="desc">Illustration of sun and sunscreen bottle with SPF label.</desc>
+  <rect width="1200" height="800" fill="#fff7ed"/>
+  <circle cx="220" cy="180" r="90" fill="#f59e0b"/>
+  <g stroke="#f59e0b" stroke-width="10">
+    <line x1="220" y1="40" x2="220" y2="0"/>
+    <line x1="220" y1="360" x2="220" y2="320"/>
+    <line x1="80" y1="180" x2="40" y2="180"/>
+    <line x1="400" y1="180" x2="360" y2="180"/>
+  </g>
+  <rect x="480" y="180" width="280" height="460" rx="40" fill="#ffffff" stroke="#fed7aa" stroke-width="6"/>
+  <rect x="550" y="250" width="140" height="70" rx="16" fill="#fdba74"/>
+  <text x="620" y="298" text-anchor="middle" font-size="34" font-family="Arial, sans-serif" font-weight="700" fill="#7c2d12">SPF 50</text>
+  <text x="620" y="430" text-anchor="middle" font-size="32" font-family="Arial, sans-serif" fill="#9a3412">Broad Spectrum</text>
+  <text x="620" y="490" text-anchor="middle" font-size="30" font-family="Arial, sans-serif" fill="#9a3412">No White Cast</text>
+  <text x="600" y="730" text-anchor="middle" font-size="50" font-family="Arial, sans-serif" font-weight="700" fill="#7c2d12">Daily Sunscreen Guide</text>
+</svg>
