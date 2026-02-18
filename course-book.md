@@ -1,4 +1,5 @@
 ---
+published: false
 layout: page
 title: Course Book
 permalink: /course-book/

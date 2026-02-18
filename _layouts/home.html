@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Falowen Blog</title>
+  <title>{{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   {%- include head.html -%}
   {%- include head-custom.html -%}
@@ -11,20 +11,27 @@
 <body>
   {% include header.html %}
 
-  <!-- Student reviews (moved to top) -->
+  <!-- Hero -->
+  <header class="hero">
+    <div class="wrap">
+      <h1>Glittering Spa Blog</h1>
+      <p>Read practical skincare tips, wellness routines, and spa care guidance from our team.</p>
+      <p>
+        <a class="pill" href="{{ '/blogs/' | relative_url }}">Browse Blogs</a>
+        <a class="pill" href="{{ '/search/' | relative_url }}">Search Posts</a>
+        <a class="pill" href="{{ '/contact/' | relative_url }}">Contact Us</a>
+      </p>
+    </div>
+  </header>
+
+  <!-- Testimonials -->
   <section id="testimonials" class="wrap section">
-    <h2>What students say</h2>
+    <h2>What clients say</h2>
     <div class="reviews-container">
       <p>Loading testimonials...</p>
     </div>
     <noscript>Please enable JavaScript to view testimonials.</noscript>
   </section>
-
-  <!-- Hero -->
-  <header class="hero">
-    <div class="wrap">
-    </div>
-  </header>
 
   <!-- Latest posts grid -->
   <section class="wrap section">
