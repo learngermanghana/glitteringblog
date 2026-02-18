@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://blog.falowen.app/sitemap.xml
 
+Sitemap: https://blog.glitteringmedspa.com/sitemap.xml

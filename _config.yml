@@ -3,7 +3,7 @@ description: "A lean, SEO-friendly blog for skincare insights, wellness tips, an
 lang: en
 locale: en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.glitteringspa.com"
+url: "https://blog.glitteringmedspa.com"
 theme: minima
 header_pages:
   - about.md
