@@ -1,24 +1,20 @@
 ---
 layout: default
-title: Contact Us
+title: Contact
 permalink: /contact/
 ---
 
-# Contact Us
+# Contact Glittering Spa
 
-We're here to help with course registrations, class details, and general inquiries.
+Have a question about a blog article or need help finding the right post?
 
-- **Email:** [learngermanghana@gmail.com](mailto:learngermanghana@gmail.com)
-- **Phone:** [0205706589](tel:+233205706589)
-- **Mailing Address:** P.O. Box 2624, Kaneshie
+- **Email:** [hello@glitteringspa.com](mailto:hello@glitteringspa.com)
+- **Phone:** [+1 (000) 000-0000](tel:+10000000000)
+- **Address:** Glittering Spa, Wellness District
 
-## Hours of Operation
-- **Monday:** 8:30 am – 4:00 pm
-- **Tuesday:** 8:30 am – 4:00 pm
-- **Wednesday:** 8:30 am – 4:00 pm
-- **Thursday:** 8:30 am – 4:00 pm
-- **Friday:** 8:30 am – 4:00 pm
-- **Saturday:** Closed
+## Hours
+- **Monday – Friday:** 9:00 am – 6:00 pm
+- **Saturday:** 10:00 am – 4:00 pm
 - **Sunday:** Closed
 
-Looking for the next start date? Visit the [Upcoming Classes]({{ '/upcoming-classes/' | relative_url }}) page.
+Prefer self-service? Use the [search page]({{ '/search/' | relative_url }}) to find posts by keyword.

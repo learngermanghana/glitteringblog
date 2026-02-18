@@ -4,39 +4,21 @@ title: About
 permalink: /about/
 ---
 
-# About the Falowen Blog
+# About Glittering Spa Blog
 
-<img src="https://i.imgur.com/peGxlkO.png" alt="About Falowen" class="post-img">
+Glittering Spa Blog is our publication hub for sharing clear, practical wellness and skincare content.
 
-The **Falowen Blog** is where we share stories, tips, and updates from **Learn Language Education Academy** and the **Falowen app**.
+We use this blog-first site to:
 
+- publish SEO-friendly articles clients can discover,
+- help readers find topics quickly through blog listing and search,
+- keep maintenance simple and focused on content quality.
 
-Our goal is simple:  
-- Help learners prepare for **Goethe exams** (A1–C1) with practical advice  
-- Share **vocabulary, grammar, and speaking strategies** that make daily practice easier  
-- Keep you updated on **new features** and **success stories** from our students  
+## What you can expect
 
----
+- Treatment aftercare tips
+- Skin and body wellness routines
+- Seasonal care guidance
+- Team updates and educational posts
 
-## Who We Are
-
-Falowen is built by teachers who understand the challenges of learning German.  
-From classrooms in **Accra, Ghana** to learners around the globe, we combine teaching experience with modern technology to make language learning accessible and effective.  
-
----
-
-## What You’ll Find Here
-
-- **Study Tips and Hacks** → Learn smarter, not harder  
-- **Exam Preparation** → Guidance for Goethe A1–C1  
-- **Vocabulary Routines** → Build daily learning habits  
-- **Falowen Updates** → New features, success stories, and behind the scenes  
-
----
-
-## Join the Journey
-
-Language learning is more than exams — it is about confidence, culture, and connection.  
-
-Visit [falowen.app](https://falowen.app) to try the app.  
-Follow us on **Facebook, LinkedIn, and Instagram** for daily learning tips.
+Our goal is readability, consistency, and useful information clients can apply right away.

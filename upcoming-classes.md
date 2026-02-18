@@ -1,4 +1,5 @@
 ---
+published: false
 layout: default
 title: Upcoming Classes
 permalink: /upcoming-classes/
