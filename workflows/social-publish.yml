@@ -1,0 +1,73 @@
+name: Publish Blog to Social
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "_posts/*.md"
+  workflow_dispatch:
+    inputs:
+      post_path:
+        description: "Optional post file path (e.g. _posts/2026-02-12-example.md)"
+        required: false
+        type: string
+      dry_run:
+        description: "Run without publishing"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Determine post path
+        id: resolve
+        shell: bash
+        run: |
+          if [ -n "${{ github.event.inputs.post_path }}" ]; then
+            target="${{ github.event.inputs.post_path }}"
+          else
+            target=$(git diff --name-only HEAD~1 HEAD | awk '/^_posts\/.*\.md$/ {print; exit}')
+          fi
+
+          if [ -z "$target" ]; then
+            echo "No changed post detected. Skipping publish."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "Using post: $target"
+          echo "skip=false" >> "$GITHUB_OUTPUT"
+          echo "post_path=$target" >> "$GITHUB_OUTPUT"
+
+      - name: Publish to LinkedIn, Instagram, and Medium
+        if: steps.resolve.outputs.skip != 'true'
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+          MEDIUM_TOKEN: ${{ secrets.MEDIUM_TOKEN }}
+          MEDIUM_USER_ID: ${{ secrets.MEDIUM_USER_ID }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          DRY=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            DRY="--dry-run"
+          fi
+          python scripts/post_to_social.py --post "${{ steps.resolve.outputs.post_path }}" $DRY

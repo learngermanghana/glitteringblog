@@ -1,0 +1,44 @@
+name: Weekly Blog Auto PR
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 7 * * 1" # Every Monday 07:00 UTC
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  create-weekly-post-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate weekly post
+        run: python scripts/generate_post.py
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore(blog): generate weekly auto-post"
+          branch: "bot/weekly-blog-post"
+          delete-branch: true
+          title: "chore(blog): weekly auto-generated post"
+          body: |
+            ## Summary
+            - Generate the next weekly post via `scripts/generate_post.py`.
+            - Open a PR only when content changed.
+
+            ## Notes
+            - Triggered by schedule (`0 7 * * 1`) or manual dispatch.
+          labels: |
+            auto-update
+            blog
