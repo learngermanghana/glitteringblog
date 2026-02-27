@@ -1,0 +1,18 @@
+<section class="resource-links" aria-label="Related resources">
+  <h2>{{ include.title | default: 'Continue Exploring' }}</h2>
+  <p>{{ include.intro | default: 'Jump between our blog insights and practical self-service tools.' }}</p>
+  <div class="resource-links-grid">
+    <a class="resource-link-card" href="{{ '/blogs/' | relative_url }}">
+      <h3>Blog Library</h3>
+      <p>Read skincare guides, routines, and wellness explainers.</p>
+    </a>
+    <a class="resource-link-card" href="{{ '/search/' | relative_url }}">
+      <h3>Search Tool</h3>
+      <p>Find posts quickly by concern, ingredient, or routine goal.</p>
+    </a>
+    <a class="resource-link-card" href="{{ '/contact/' | relative_url }}">
+      <h3>Ask a Question</h3>
+      <p>Need help choosing articles? Contact us for guidance.</p>
+    </a>
+  </div>
+</section>

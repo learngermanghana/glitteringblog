@@ -2,6 +2,12 @@
 layout: page
 title: Search
 permalink: /search/
+excerpt: "Use the Glittering Spa Blog search tool to find articles by ingredient, concern, or routine step."
+faq:
+  - question: "How do I search for skincare topics quickly?"
+    answer: "Type ingredient names, concerns, or goals into the search field to see matching blog posts instantly."
+  - question: "Does search include all published posts?"
+    answer: "Yes. Search indexes published posts so you can navigate the full article library faster."
 ---
 
 <input type="text" id="search-input" placeholder="Search posts...">
@@ -19,3 +25,5 @@ permalink: /search/
     fuzzy: true
   })
 </script>
+
+{% include internal-links.html title='Keep exploring' intro='Use these internal links to navigate between blog content and quick tools.' %}
