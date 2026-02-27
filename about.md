@@ -2,6 +2,12 @@
 layout: default
 title: About
 permalink: /about/
+excerpt: "Learn about Glittering Spa Blog, our educational skincare focus, and what readers can expect."
+faq:
+  - question: "What is Glittering Spa Blog about?"
+    answer: "Glittering Spa Blog shares practical skincare and wellness education readers can apply daily."
+  - question: "Who is the content for?"
+    answer: "Our articles are for readers looking for clear, beginner-friendly skincare guidance and routines."
 ---
 
 # About Glittering Spa Blog
@@ -22,3 +28,5 @@ We use this blog-first site to:
 - Team updates and educational posts
 
 Our goal is readability, consistency, and useful information clients can apply right away.
+
+{% include internal-links.html title='Explore blog resources' intro='Quickly jump from the About page to articles and search tools.' %}

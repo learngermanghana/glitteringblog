@@ -1,10 +1,16 @@
 ---
 layout: page
 title: Blogs
+excerpt: "Browse all Glittering Spa Blog articles with pagination for easy discovery."
 pagination:
   enabled: true
   per_page: 10
   permalink: '/blogs/page:num/'
+faq:
+  - question: "How often are new blog posts published?"
+    answer: "We publish practical skincare and wellness guides regularly and list the latest posts first."
+  - question: "How do I find older blog content?"
+    answer: "Use pagination on the blogs page or the search page to locate older posts by keyword."
 ---
 
 <ul>
@@ -27,3 +33,5 @@ pagination:
   {% endif %}
 </nav>
 {% endif %}
+
+{% include internal-links.html title='Keep exploring' intro='Use these internal links to navigate between blog content and quick tools.' %}
