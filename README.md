@@ -57,3 +57,19 @@ Use this prompt to keep future updates aligned with the intended architecture:
 > - File list and full code changes.
 > - Short rationale per change.
 > - Run: `bundle install` and `bundle exec jekyll build`.
+
+## Weekly spa post automation (6-month plan)
+
+Generate a weekly editorial calendar for the next 6 months (26 posts) with spa-focused content promoting both Awoshie and Spintex branches:
+
+```bash
+python scripts/generate_spa_editorial_calendar.py --start-date 2026-01-05
+```
+
+Optional: pass an Unsplash API key to fetch latest images via API search ordering:
+
+```bash
+python scripts/generate_spa_editorial_calendar.py --unsplash-access-key "$UNSPLASH_ACCESS_KEY"
+```
+
+Without a key, the script falls back to Unsplash source URLs.
