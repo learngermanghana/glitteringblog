@@ -14,9 +14,10 @@ faq:
 
 Have a question about a blog article or need help finding the right post?
 
-- **Email:** [hello@glitteringspa.com](mailto:hello@glitteringspa.com)
-- **Phone:** [+1 (000) 000-0000](tel:+10000000000)
-- **Address:** Glittering Spa, Wellness District
+- **Email:** [info@glitteringmedspa.com](mailto:info@glitteringmedspa.com)
+- **Phone:** [+233241094206](tel:+233241094206)
+- **Address (Awoshie):** Baah Yard, Near UVP Pub, Awoshie Traffic Light
+- **Address (Spintex):** Shell Signboard Traffic Signal Bus Stop, Spintex Rd, Accra
 
 ## Hours
 - **Monday – Friday:** 9:00 am – 6:00 pm
