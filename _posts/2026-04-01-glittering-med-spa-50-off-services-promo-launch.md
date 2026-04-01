@@ -1,58 +1,60 @@
 ---
 layout: post
-title: "Glittering Med Spa Launches 50% OFF Services Promo (April 1-15)"
+title: "Enjoy 50% OFF Selected Services at Glittering Med Spa This April"
 date: 2026-04-01
-categories: [Announcements]
+categories: [Blog]
 tags: [glittering med spa promo, 50 percent off services, med spa ghana, spintex branch, awoshie branch, whatsapp registration]
-excerpt: "We launched a top-of-homepage promo banner for Glittering Med Spa's 50% OFF Services campaign, with direct service browsing and branch-specific WhatsApp registration CTAs."
-image: https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&w=1600&q=80
+excerpt: "Enjoy 50% OFF selected services at Glittering Med Spa from April 1 to April 15. Explore promo services and register quickly via WhatsApp."
+image: https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&w=1200&q=80
 image_alt: "Spa treatment setup with candles and towels"
 canonical_url:
 ---
 
-We're excited to announce a fresh homepage update focused on one clear goal: help more clients discover and book our **Glittering Med Spa 50% OFF Services** campaign quickly and easily.
+Looking for the perfect time to treat yourself? This is it.
 
-## What's new in this homepage update
+Glittering Med Spa is running a special **50% OFF selected services** campaign from **April 1 to April 15**, giving you the chance to enjoy some of your favorite treatments at half the price.
 
-### 1) Promo-first banner at the top of the homepage
+Whether you have been planning to book a service for a while or simply want to take advantage of a limited-time beauty and wellness offer, now is the best moment to register and secure your slot.
 
-We introduced a high-visibility banner at the very top of the homepage so the campaign is the first thing visitors see.
+## Why You Should Book Now
 
-The banner clearly communicates:
+This promo is designed for clients who want quality care at a great value. With **50% OFF selected services**, you can enjoy professional treatments while saving significantly.
 
-- **Offer:** 50% OFF selected services
-- **Campaign window:** **April 1 - April 15**
-- **Primary intent:** drive users to view eligible services before anything else
+This is a great opportunity to:
 
-This layout change ensures campaign visibility for both returning and first-time visitors.
+- Try a service you have been postponing
+- Book your next self-care session at a lower cost
+- Explore treatment options that fit your beauty and skincare goals
 
-### 2) New "View promo services" CTA
+## Browse Promo Services
 
-We added a dedicated **View promo services** call-to-action that links directly to **`/services`**.
+To make it easy for you to choose, you can view the available promo services directly on our [Services page](/services) and see which treatments are included in the campaign.
 
-This gives visitors an immediate path to browse eligible treatments, compare options, and decide faster without hunting through the site.
+Take a moment to explore your options, compare services, and decide what works best for you before spaces fill up.
 
-### 3) Branch-specific "Register now" WhatsApp buttons
+## Register Easily Through WhatsApp
 
-To reduce friction and speed up lead capture, we added separate **Register now** buttons for:
+Booking is simple and fast.
 
-- **Spintex branch**
-- **Awoshie branch**
+Clients can register directly through WhatsApp using our branch-specific contact options:
 
-Each button opens WhatsApp with a **prefilled promo registration message**, so users can tap once and send.
+- Spintex branch
+- Awoshie branch
 
-## Why this matters
+With just one tap, you can send your registration message and get started right away.
 
-This update is designed to improve conversion by removing decision friction:
-
-- Campaign details are visible instantly
-- Service discovery is one click away
-- Registration is faster with prefilled branch-specific WhatsApp messages
-
-In short, users can go from interest to action in seconds.
-
-## Campaign reminder
+## Campaign Period
 
 The **Glittering Med Spa 50% OFF Services** campaign runs from **April 1 to April 15**.
 
-If you've been waiting to try a service or book your next treatment, this is a great time to register and secure your slot.
+Because this is a limited-time offer, early registration is highly recommended to help you secure your preferred service and booking slot.
+
+## Need Help Choosing the Right Products or Services?
+
+If you are unsure which treatment or skincare products are right for you, Glittering Med Spa is ready to help with personalized guidance and recommendations tailored to your needs.
+
+## Book Your Slot Today
+
+Do not miss this chance to enjoy premium care at a discounted price.
+
+Register now, explore our promo services, and take advantage of **50% OFF** before the campaign ends on **April 15**.
