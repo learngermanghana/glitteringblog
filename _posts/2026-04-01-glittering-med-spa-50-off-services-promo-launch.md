@@ -28,7 +28,7 @@ This is a great opportunity to:
 
 ## Browse Promo Services
 
-To make it easy for you to choose, you can view the available promo services directly on our [Services page](/services) and see which treatments are included in the campaign.
+To make it easy for you to choose, you can view the available promo services directly on our [Services page](https://www.glitteringmedspa.com) and see which treatments are included in the campaign.
 
 Take a moment to explore your options, compare services, and decide what works best for you before spaces fill up.
 
